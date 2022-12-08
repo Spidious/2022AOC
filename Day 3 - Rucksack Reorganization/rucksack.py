@@ -34,6 +34,8 @@ def main():
     
     print(f"Solution to Part 1 is : {sum(list)}")
 
+    f.close()
+
 
 
 if __name__ == "__main__":
